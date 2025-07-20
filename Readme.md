@@ -37,10 +37,10 @@ excel-to-vcard-convertor/
 
 📁 Step 4: Prepare Your Excel File
 
-      ✅ Your headers must be exactly:
-    
-        Name
-        Phone number
+  ✅ Your headers must be exactly:
+
+    Name
+    Phone number
 
 🚀 Step 5: Run the Script
 
