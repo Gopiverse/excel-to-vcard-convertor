@@ -1,12 +1,5 @@
 Excel/csv to VCard Converter
 
-Easily convert contacts stored in an Excel (.xlsx) file into a .vcf (vCard) format using Python. 
-
-✨ Features
-✅ Converts Excel contact sheets to .vcf  
-✅ Supports `Name`, `Phone number` and `Email` fields  
-✅ Ideal for bulk import of contacts
-
 ```bash
 File structure
 
