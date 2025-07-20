@@ -7,6 +7,9 @@ Easily convert contacts stored in an Excel (.xlsx) file into a .vcf (vCard) form
 ✅ Supports `Name`, `Phone number` and `Email` fields  
 ✅ Ideal for bulk import of contacts
 
+```bash
+File structure
+
 excel-to-vcard-convertor/
 │
 ├── convert_to_vcf.py         # Main Python script
@@ -14,7 +17,7 @@ excel-to-vcard-convertor/
 ├── contacts.vcf              # Output vCard file (after script runs)
 ├── env/                      # Virtual environment folder
 └── requirements.txt          # List of dependencies
-
+```
 
 
 🧑‍💻 How to Use This ?
